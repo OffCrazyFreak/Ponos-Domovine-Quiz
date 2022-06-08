@@ -1,0 +1,63 @@
+Question number: 1
+
+Type: choose1
+
+Pitanje...?
+
+Odgovor 1
+Odgovor 2
+Odgovor 3
+Odgovor 4
+
+Točan odgovor: Odgovor 1
+
+
+Question number: 2
+
+Type: choose2
+
+Pitanje...?
+
+Odgovor 1
+Odgovor 2
+Odgovor 3
+Odgovor 4
+
+Točan odgovor: Odgovor 1, Odgovor 2
+
+
+Question number: 3
+
+Type: input
+
+Pitanje...?
+
+Točan odgovor: Odgovor
+
+
+Question number: 4
+
+Type: connect
+
+Pitanje...?
+
+Text 1, Odgovor 1
+Text 2, Odgovor 2
+Text 3, Odgovor 3
+Text 4, Odgovor 4
+
+Točan odgovor: Odgovor 1, Odgovor 2, Odgovor 3, Odgovor 4
+
+
+Question number: 5
+
+Type: choose1
+
+Pitanje...?
+
+Odgovor 1
+Odgovor 2
+Odgovor 3
+Odgovor 4
+
+Točan odgovor: Odgovor 1, Odgovor 2, Odgovor 3, Odgovor 4

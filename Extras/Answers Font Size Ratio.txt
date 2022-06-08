@@ -1,0 +1,12 @@
+answers_h / ( (answers_h / 2) - font_size) = ratio
+
+
+37.5 / (18.75 - font_size) = ratio
+
+s9 = 3.8461
+s10 = 4.2857
+s11 = 4.8387
+s12 = 5.5556
+s13 = 6.5217
+s14 = 7.8947
+s15 = 10
